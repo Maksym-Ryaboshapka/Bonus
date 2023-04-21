@@ -1,0 +1,317 @@
+* {
+    font-family: 'Inter';
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-pages {
+    list-style: none;
+}
+
+.header-page {
+    color: #E4D8CC;
+    font-size: 11px;
+    line-height: 2.18;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.header-contact {
+    color: #E4D8CC;
+    font-size: 11px;
+    line-height: 2.18;
+    letter-spacing: 1.5px;
+}
+
+.header-offer {
+    color: #E4D8CC;
+    font-size: 11px;
+    line-height: 2.18;
+    letter-spacing: 1.5px;
+}
+
+.hero-title {
+    font-size: 57px;
+    line-height: 1.05;
+    color: #E4D8CC;
+}
+
+.hero-description {
+    font-size: 18px;
+    line-height: 1.55;
+    color: #C3BAB1;
+}
+
+.hero-list {
+    list-style: none;
+}
+
+.hero-btn {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.sale-title {
+    font-size: 54px;
+    line-height: 1.07;
+    color: #101010;
+}
+
+.sale-description {
+    font-size: 16px;
+    line-height: 1.37;
+    color: #101010;
+}
+
+.sale-img {
+    width: 539px;
+    height: 283px;
+}
+
+.equity-img {
+    width: 518px;
+    height: 500px;
+}
+
+.equity-number {
+    color: #101010;
+    font-size: 38px;
+    line-height: 0.63;
+}
+
+.equity-subtitle {
+    font-size: 19px;
+    line-height: 1.89;
+    color: #101010;
+}
+
+.equity-title {
+    font-size: 35px;
+    line-height: 1.31;
+    letter-spacing: 1px;
+    color: #101010;
+}
+
+.equity-paragraph {
+    font-size: 12px;
+    line-height: 2.5;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #101010;
+}
+
+.equity-description {
+    font-size: 14px;
+    line-height: 1.57;
+    color: #101010;
+}
+
+.investment-img {
+    width: 518px;
+    height: 500px;
+}
+
+.investment-number {
+    color: #101010;
+    font-size: 38px;
+    line-height: 0.63;
+}
+
+.investment-subtitle {
+    font-size: 19px;
+    line-height: 1.89;
+    color: #101010;
+}
+
+.investment-title {
+    font-size: 35px;
+    line-height: 1.31;
+    letter-spacing: 1px;
+    color: #101010;
+}
+
+.investment-paragraph {
+    font-size: 12px;
+    line-height: 2.5;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #101010;
+}
+
+.investment-description {
+    font-size: 14px;
+    line-height: 1.57;
+    color: #101010;
+}
+
+.wealth-img {
+    width: 518px;
+    height: 500px;
+}
+
+.wealth-number {
+    color: #101010;
+    font-size: 38px;
+    line-height: 0.63;
+}
+
+.wealth-subtitle {
+    font-size: 19px;
+    line-height: 1.89;
+    color: #101010;
+}
+
+.wealth-title {
+    font-size: 35px;
+    line-height: 1.31;
+    letter-spacing: 1px;
+    color: #101010;
+}
+
+.wealth-paragraph {
+    font-size: 12px;
+    line-height: 2.5;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #101010;
+}
+
+.wealth-description {
+    font-size: 14px;
+    line-height: 1.57;
+    color: #101010;
+}
+
+.info-list {
+    list-style: none;
+}
+
+.info-img {
+    width: 72px;
+    height: 62px;
+}
+
+.info-description {
+    color: #E4D8CC;
+    font-size: 24px;
+    line-height: 1.33;
+}
+
+.info-photo {
+    width: 73px;
+    height: 73px
+}
+
+.info-paragraph {
+    font-size: 14px;
+    line-height: 1.71;
+    color: #E4D8CC;
+}
+
+.info-img2 {
+    width: 140px;
+    height: 37px;
+}
+
+.questions-title {
+    font-size: 36px;
+    line-height: 1.27;
+    letter-spacing: 1px;
+    color: #E4D8CC;
+}
+
+.questions-list {
+    list-style: none;
+}
+
+.questions-link {
+    font-size: 20px;
+    line-height: 1.4;
+    color: #B99FEA;
+}
+
+.questions-img {
+    width: 520px;
+    height: 539px;
+}
+
+.mission-subtitle {
+    font-size: 15px;
+    line-height: 1.06;
+    color: #C3BAB1;
+}
+
+.mission-title {
+    font-size: 48px;
+    line-height: 1.12;
+    color: #E7DFD8;
+}
+
+.mission-description {
+    font-size: 12px;
+    line-height: 1.66;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #E4D8CC;
+}
+
+.footer-list1 {
+    list-style: none;
+}
+
+.footer-title {
+    font-size: 23px;
+    line-height: 1.04;
+    color: #E4D8CC;
+}
+
+.footer-btn {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFAF5;
+}
+
+.footer-contact {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #E4D8CC;
+}
+
+.footer-list2 {
+    list-style: none;
+}
+
+.footer-subtitle {
+    font-size: 20px;
+    line-height: 1.25;
+    color: #E4D8CC;
+}
+
+.footer-link {
+    font-size: 16px;
+    line-height: 0;
+    color: #E4D8CC;
+}
+
+.footer-img {
+    width: 60px;
+    height: 55px;
+}
+
+.footer-description {
+    font-size: 14px;
+    line-height: 28px;
+    text-align: right;
+    color: #E4D8CC;
+}
+
+.footer-paragraph {
+    font-size: 11px;
+    line-height: 1;
+    text-align: right;
+    color: #E4D8CC;
+}
