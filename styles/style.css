@@ -575,6 +575,7 @@ footer {
     display: flex;
     flex-direction: column;
     margin-left: auto;
+    padding-top: 29px;
 }
 
 .footer-img {
