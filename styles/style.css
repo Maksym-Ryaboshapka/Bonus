@@ -22,10 +22,6 @@ footer {
     margin-right: auto;
 }
 
-.hero-header-background {
-    background-image: url(/images/image8.png);
-}
-
 .header {
     padding-top: 23px;
     padding-bottom: 364px;
@@ -375,6 +371,7 @@ footer {
     height: 62px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 48px;
 }
 
 .info-description {
@@ -471,7 +468,7 @@ footer {
 }
 
 .mission {
-    background-image: url(/images/image9.png);
+    background-image: url(../images/mission-background.jpg);
     padding-top: 139px;
     padding-bottom: 112px;
 }
@@ -500,7 +497,6 @@ footer {
 }
 
 .footer {
-    border-top: 1px solid #E7E7E7;
     padding-top: 78px;
     background-color: #101010;
 }
@@ -509,7 +505,7 @@ footer {
     display: flex;
     gap: 42px;
     margin-bottom: 86px;
-    align-items: center;
+    flex: 0 0 320px;
 }
 
 .footer-title {
@@ -540,42 +536,42 @@ footer {
 
 .footer-flex1 {
     display: flex;
-    align-items: center;
 }
 
 .footer-list2 {
     display: flex;
 }
 
-.footer-item3 {
-    margin-left: 75px;
+.footer-item2:nth-child(2) {
     margin-right: 109px;
+    margin-left: 75px;
 }
 
 .footer-subtitle {
     font-size: 20px;
     line-height: 1.25;
     color: #E4D8CC;
+    margin-bottom: 43px;
 }
 
-.footer-flex {
-    margin-top: 48px;
+.footer-sublist {
     display: flex;
     flex-direction: column;
-    gap: 47px;
+    gap: 36px;
 }
 
 .footer-link {
     font-size: 16px;
-    line-height: 0;
+    line-height: 1.2;
     color: #E4D8CC;
 }
 
 .footer-flex2 {
     display: flex;
     flex-direction: column;
-    margin-left: auto;
     padding-top: 29px;
+    margin-left: auto;
+    justify-content: flex-end;
 }
 
 .footer-img {
